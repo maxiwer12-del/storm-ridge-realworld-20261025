@@ -1,0 +1,25 @@
+{
+  "name": "Storm Ridge — Physics 2.0",
+  "short_name": "Storm Ridge",
+  "description": "Explore a mountain world and six linked physics proving grounds.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#101b18",
+  "theme_color": "#101b18",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
