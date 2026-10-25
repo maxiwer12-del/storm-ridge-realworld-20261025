@@ -1,4 +1,4 @@
-const CACHE='storm-ridge-realworld-v8';
+const CACHE='storm-ridge-realworld-visual-v9';
 const scope=self.registration.scope;
 const file=name=>new URL(name,scope).href;
 const SHELL=[scope,file('index.html'),file('manifest.webmanifest'),file('favicon.svg'),file('icon-192.png'),file('icon-512.png')];
